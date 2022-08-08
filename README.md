@@ -4,6 +4,7 @@ Utilización del Sistema de Reconocimiento de Gestos Empleado en el Proyecto de 
 Requisitos del Sistema:
 
 ![image](https://user-images.githubusercontent.com/86685506/150550991-b6a95e9b-730d-414d-823d-5c4b3e1d5479.png)
+![comandosHGR](https://user-images.githubusercontent.com/110753610/183478808-0bc47858-bb14-45a4-ad41-f016b325b9be.png)
 
 Además, dentro de Matlab será necesario contar como mínimo con:
 <ul>
