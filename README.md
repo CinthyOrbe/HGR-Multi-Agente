@@ -14,7 +14,7 @@ Además, dentro de Matlab será necesario contar como mínimo con:
 </ul>
 <b>Copia del Package de ROS:</b>
 <p>Al verificarse la instalación de todos los requisitos previamente mencionado, es necesario clonar o copiar el package del repositorio:</p>
-<p>https://github.com/MarcoOrtega0/Swarm_Robotics</p>
+<p>ñillink github/p>
 <p>Dentro de este repositorio se tiene la carpeta multi_robot, la cual debera ser copiada en el catkin workspace:</p>
 <p>/home/USER/catkin_ws/src/multi_robot</p>
 <p>Por otra parte, las carpetas de Gazebo y Matlab son copiadas en una carpeta en el escritorio de tal manera:</p>
