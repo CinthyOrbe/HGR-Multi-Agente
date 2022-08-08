@@ -43,3 +43,4 @@ Además, dentro de Matlab será necesario contar como mínimo con:
 <li> Arquitectura de control -> Simulink</li>
 <li> Planeación y Visualización de datos -> MATLAB .mlx </li>
 </ul>
+ 
