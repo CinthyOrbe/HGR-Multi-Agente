@@ -1,0 +1,29 @@
+Los archivos en la Instancia 1 son los siguientes:
+
+- Comando_main.mlx, que es el archivo a ejecutar en MATLAB
+- GeneralHGR, carpeta a sustituir en el Software del proyecto PIGR-19-07
+
+La jerarquía de los archivos de la Instacia 2 es la siguiente:
+
+- Main.mlx
+	- prueba1.mlx
+	- menu.mlx
+		-	- menu_op1_formation.mlx
+			- FormationControl.slx
+			- results_op1.m
+
+		-	- menu_op2.mlx
+			- movimiento.m
+			- moving.m
+			- GetIMU.m
+
+Los modelos de simulación son:
+
+- Para 1 agente:
+	- OneRobot1.slx (Sin control extra a la velocidad lineal)
+	- OneRobot.slx (Control condicional a la velocidad lineal)
+	- OneRobot_proporcional.slx (Control proporcional a la velocidad lineal)
+
+- Para 3 agentes:
+	- Inicialization.slx (Modelo para obtener las posiciones de los 3 agentes)
+	- Mtest6.mlx (Modelo para el control de formación de los 3 agentes)
