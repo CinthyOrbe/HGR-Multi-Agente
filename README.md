@@ -1,9 +1,15 @@
 # HGR-Multi-Agente
 Utilización del Sistema de Reconocimiento de Gestos Empleado en el Proyecto de Investigación PIGR-19-07 para el Comando de un Sistema Multi-Agente
 
-Requisitos del Sistema:
+Requisitos:
+![requisitos](https://user-images.githubusercontent.com/110753610/190249491-7ff6966f-c887-4121-88e5-a8d152404793.png)
 
-![image](https://user-images.githubusercontent.com/86685506/150550991-b6a95e9b-730d-414d-823d-5c4b3e1d5479.png)
+Características mínimas del Sistema:
+![caracteristicas](https://user-images.githubusercontent.com/110753610/190249611-431a35f0-0532-46e6-9a72-0e27f98c1505.png)
+
+Para más detalles dirigirse al Manual de Usuario.
+
+<b>Sisitema de Reconocimiento de Gestos (HGR)</b>
 ![comandosHGR](https://user-images.githubusercontent.com/110753610/183478808-0bc47858-bb14-45a4-ad41-f016b325b9be.png)
 
 Además, dentro de Matlab será necesario contar como mínimo con:
@@ -18,11 +24,6 @@ Además, dentro de Matlab será necesario contar como mínimo con:
 <p>Dentro de este repositorio se tiene la carpeta multi_robot, la cual debera ser copiada en el catkin workspace:</p>
 <p>/home/USER/catkin_ws/src/multi_robot</p>
 <p>Por otra parte, las carpetas de Gazebo y Matlab son copiadas en una carpeta en el escritorio de tal manera:</p>
-<p>/home/USER/Escritorio/Swarm\ Robots </p>
-<p>*USER es el nombre de usuario de Linux,por lo que debe ser modificado para cada computadora, y en los ejecutables dentro de la carpeta Gazebo</p>
-<p>Se recomienda la compilación del paquete despues de copiarlo, ejecutando las siguientes lineas:</p>
-<p><b>$ roscd</b></p>
-<p><b>$ catkin_make</b></p>
 
 <b>Ejecución:</b>
 <p>Para la ejecución se abre a la par el archivo Main.mlx en MATLAB y el menu en la Máquina Virtual</p>
