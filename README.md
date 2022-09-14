@@ -25,6 +25,6 @@ Además, dentro de Matlab será necesar con:
 <p>Para la ejecución se abre a la par el archivo Main.mlx en MATLAB y el menú en la Máquina Virtual</p>
 
 <b>Videos de Funcionamiento:</b>
-<k>Sistema Multi-Agente comandado por Reconocimiento de Gestos</k>
+<p>Sistema Multi-Agente comandado por Reconocimiento de Gestos</p>
 <p>https://youtube.com/playlist?list=PLDPood9E6gIZDzyVxCg9xBSyCjIqkmu2J</p>
 
