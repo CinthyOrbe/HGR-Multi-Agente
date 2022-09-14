@@ -2,6 +2,7 @@
 Utilización del Sistema de Reconocimiento de Gestos Empleado en el Proyecto de Investigación PIGR-19-07 para el Comando de un Sistema Multi-Agente
 
 <p>Requisitos:</p>
+
 ![requisitos2](https://user-images.githubusercontent.com/110753610/190250332-ae133e31-bb90-438e-8374-392f3d774648.png)
 
 <p>Características mínimas del Sistema:</p>
