@@ -6,7 +6,8 @@ Requisitos:
 ![requisitos](https://user-images.githubusercontent.com/110753610/190249491-7ff6966f-c887-4121-88e5-a8d152404793.png)
 
 Características mínimas del Sistema:
-![caracteristicas](https://user-images.githubusercontent.com/110753610/190249611-431a35f0-0532-46e6-9a72-0e27f98c1505.png)
+
+![caracteristicas2](https://user-images.githubusercontent.com/110753610/190250132-add82514-ac32-42b2-8ecb-c8da0878e25f.png)
 
 Para más detalles dirigirse al Manual de Usuario.
 
