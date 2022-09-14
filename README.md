@@ -3,7 +3,7 @@ Utilización del Sistema de Reconocimiento de Gestos Empleado en el Proyecto de 
 
 Requisitos:
 
-![requisitos](https://user-images.githubusercontent.com/110753610/190249491-7ff6966f-c887-4121-88e5-a8d152404793.png)
+![requisitos2](https://user-images.githubusercontent.com/110753610/190250332-ae133e31-bb90-438e-8374-392f3d774648.png)
 
 Características mínimas del Sistema:
 
@@ -14,15 +14,14 @@ Para más detalles dirigirse al Manual de Usuario.
 <b>Sisitema de Reconocimiento de Gestos (HGR)</b>
 ![comandosHGR](https://user-images.githubusercontent.com/110753610/183478808-0bc47858-bb14-45a4-ad41-f016b325b9be.png)
 
-Además, dentro de Matlab será necesario contar como mínimo con:
+Además, dentro de Matlab será necesar con:
 <ul>
-<li> Simulink </li>
-<li> 	Robotics System Toolbox </li>
-<li> 	ROS Toolbox </li>
+<li>  </li>
+<li>  </li>
+<li>  </li>
 </ul>
-<b>Copia del Package de ROS:</b>
+
 <p>Al verificarse la instalación de todos los requisitos previamente mencionado, es necesario clonar o copiar el package del repositorio:</p>
-<p>ñillink github/p>
 <p>Dentro de este repositorio se tiene la carpeta multi_robot, la cual debera ser copiada en el catkin workspace:</p>
 <p>/home/USER/catkin_ws/src/multi_robot</p>
 <p>Por otra parte, las carpetas de Gazebo y Matlab son copiadas en una carpeta en el escritorio de tal manera:</p>
