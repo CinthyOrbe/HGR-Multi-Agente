@@ -1,7 +1,7 @@
 Los archivos en la Instancia 1 son los siguientes:
 
 - Comando_main.mlx, que es el archivo a ejecutar en MATLAB
-- GeneralHGR, carpeta a sustituir en el Software del proyecto PIGR-19-07
+- GeneralHGR, carpeta con archivos a sustituir en el Software del proyecto PIGR-19-07
 
 La jerarquía de los archivos de la Instacia 2 es la siguiente:
 
