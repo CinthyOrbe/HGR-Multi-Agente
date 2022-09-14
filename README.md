@@ -35,12 +35,3 @@ Además, dentro de Matlab será necesario contar como mínimo con:
   <li>Ejecución (Simulación en run paced mode) (Archivo *.slx)</li>
   <li>Una vez finalizada la prueba adquirir y analizar los datos de simulación (Archivo *.mlx)</li>
 </ol>
-
-<b>Modificación:</b>
-<p>Cualquier parte del entorno o arquitectura de control, así como la visualización de datos son modificables:</p>
-<ul>
-<li> Banco de Pruebas -> multi_robot </li>
-<li> Arquitectura de control -> Simulink</li>
-<li> Planeación y Visualización de datos -> MATLAB .mlx </li>
-</ul>
- 
