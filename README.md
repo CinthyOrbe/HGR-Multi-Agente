@@ -12,7 +12,7 @@ Utilización del Sistema de Reconocimiento de Gestos Empleado en el Proyecto de 
 <p>Para más detalles dirigirse al Manual de Usuario.</p>
 
 <b>Sisitema de Reconocimiento de Gestos (HGR)</b>
-
+<p> Los gestos que se reconocen mediante el software del proyecto de investigación PIGR-19-07 son los siguientes:</p>
 ![comandosHGR](https://user-images.githubusercontent.com/110753610/183478808-0bc47858-bb14-45a4-ad41-f016b325b9be.png)
 
 <b>Ejecución:</b>
