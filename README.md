@@ -18,7 +18,8 @@ Utilización del Sistema de Reconocimiento de Gestos Empleado en el Proyecto de 
 
 <b>Ejecución:</b>
 <p>Para empezar la ejecución se abre a la par el archivo Main.mlx en MATLAB y el menú en la Máquina Virtual.</p>
-<p>Para un correcto uso y familiarización recurrir al Manual de Usuario</p>
+<p>Para un correcto uso y familiarización recurrir al Manual de Usuario.</p>
+<p>El esquema implementado se muestra a continuación:</p>
 
 ![esquema](https://user-images.githubusercontent.com/110753610/190483139-a3fff37e-f488-499c-91a6-2f5deab56925.png)
 
