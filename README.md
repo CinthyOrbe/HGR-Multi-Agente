@@ -15,17 +15,17 @@ Utilización del Sistema de Reconocimiento de Gestos Empleado en el Proyecto de 
 
 ![comandosHGR](https://user-images.githubusercontent.com/110753610/183478808-0bc47858-bb14-45a4-ad41-f016b325b9be.png)
 
-Además, dentro de Matlab será necesar con:
-<ul>
-<li>  </li>
-<li>  </li>
-<li>  </li>
-</ul>
-
 <b>Ejecución:</b>
-<p>Para la ejecución se abre a la par el archivo Main.mlx en MATLAB y el menú en la Máquina Virtual</p>
+<p>Para empezar la ejecución se abre a la par el archivo Main.mlx en MATLAB y el menú en la Máquina Virtual.</p>
+<p>Para un correcto uso y familiarización recurrir al Manual de Usuario</p>
+
+![esquema](https://user-images.githubusercontent.com/110753610/190483139-a3fff37e-f488-499c-91a6-2f5deab56925.png)
 
 <b>Videos de Funcionamiento:</b>
 <p>Sistema Multi-Agente comandado por Reconocimiento de Gestos</p>
 <p>https://youtube.com/playlist?list=PLDPood9E6gIZDzyVxCg9xBSyCjIqkmu2J</p>
-
+<ul>
+<li> Inico de ejecución y pruebas con 1 agente </li>
+<li> Control de formación con comandos de referencia </li>
+<li> Control de formación comandado por el reconocimiento de gestos </li>
+</ul>
